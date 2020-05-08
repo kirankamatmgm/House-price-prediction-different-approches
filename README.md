@@ -11,4 +11,4 @@ I have solved Kaggle problem House price regression using 2 methods.
 ## Second method
 - apply neural network to solve problem. 
 - for this I tried fastai library
-- notebook [here](house price fastai.ipynb)
+- notebook [here](house_price_fastai.ipynb)
